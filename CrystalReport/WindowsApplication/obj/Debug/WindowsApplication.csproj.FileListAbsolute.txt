@@ -1,0 +1,13 @@
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\WindowsApplication.exe.config
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\EntityFramework.dll
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\EntityFramework.xml
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\obj\Debug\WindowsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\obj\Debug\WindowsApplication.MainF.resources
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\obj\Debug\WindowsApplication.Properties.Resources.resources
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\WindowsApplication\obj\Debug\WindowsApplication.pdb

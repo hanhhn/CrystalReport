@@ -1,0 +1,16 @@
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\AppData\HoaDonBanLe.mdf
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\AppData\HoaDonBanLe_log.ldf
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\HoaDonBanLe.exe.config
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\HoaDonBanLe.exe
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\HoaDonBanLe.pdb
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\EntityFramework.dll
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\EntityFramework.xml
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.formMain.resources
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.Properties.Resources.resources
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.csproj.GenerateResource.Cache
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.exe
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.pdb
+C:\Users\Mr.Dark\documents\visual studio 2013\Projects\CrystalReport\HoaDonBanLe\obj\Debug\HoaDonBanLe.Report.formReport.resources
